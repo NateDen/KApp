@@ -1,0 +1,21 @@
+.home-ad {
+    max-height: 75%;
+    max-width: 100%;
+    object-fit: scale-down;
+    height: auto;
+    width: auto;
+}
+
+.card {
+    overflow: auto;
+    /*max-height: 400px;
+    max-width: 375px;*/
+}
+
+.flash {
+    width: inherit;
+}
+
+.material-icons {
+    display: inline;
+}

@@ -1,0 +1,10 @@
+.carousel {
+    width: 95%;
+    margin: auto;
+}
+
+.card {
+    min-height: 100vh;
+    /*margin: auto;
+    border: none;*/
+}
